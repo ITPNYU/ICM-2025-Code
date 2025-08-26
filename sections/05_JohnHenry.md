@@ -5,7 +5,7 @@
 - Time: Mondays 12:20PM - 2:50PM EST
 - Location: 370 Jay St, Room 408 Loc: Brooklyn Campus
 - [Homework Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-John-Henry-05)
-- [Office hours: Wednesday 1:00pm - 5:30pm ](https://calendar.app.google/jKKcXZgNYMk7F2mY8)
+- [Office hours: Wednesday 1:00pm - 5:30pm ](https://calendar.app.google/5nCCZmxPQipKhbPP8)
 
 ## Dates
 
@@ -16,3 +16,4 @@
 5. Monday, October 6
 6. Tuesday, October 14 -- No class Monday Oct 13!
 7. Monday, October 20
+
