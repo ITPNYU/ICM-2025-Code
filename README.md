@@ -137,6 +137,7 @@ Teachers and students work together to create a supportive learning environment.
 
 # Previous Years
 
+- [2024](https://github.com/ITPNYU/ICM-2024-Code/)
 - [2023](https://github.com/ITPNYU/ICM-2023-Code/)
 - [2022](https://github.com/ITPNYU/ICM-2022-Code/)
 - [2021](https://github.com/ITPNYU/ICM-2021-Code/)
