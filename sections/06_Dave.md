@@ -6,6 +6,7 @@
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Dave-06)
 * [Office Hours](https://calendar.app.google/bTAVSxtH7pHe8C2v5)
 * Socials: [Linked In](https://www.linkedin.com/in/davidestein/) [Instagram](https://www.instagram.com/colonelpanix/)
+[Spotify](https://open.spotify.com/artist/5k3zU2X1Bg9HQOHlmlviNp?si=nqnRqII8S2C18y7eS77jnA)
 
 ## Dates
 
