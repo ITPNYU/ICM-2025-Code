@@ -4,7 +4,7 @@
 * Time: Thursdays 12:20-2:50PM EST
 * Location: 409
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Mimi-02)
-* [Office Hours Signup](https://calendar.app.google/ZNgeTMujQKz1QyJR7)
+* [Office Hours Signup](https://calendar.app.google/QuhsyV4LJqoicZXr7)
 
 ## Dates
 
