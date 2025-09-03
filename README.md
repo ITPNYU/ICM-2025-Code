@@ -33,7 +33,7 @@ The following is an overview of how we will be spending class time over the next
 
 ## Extra Help
 - [Research Resident Office Hours](https://itp.nyu.edu/help/office-hours/)
-- ICM Help Sessions: TBD
+- ICM Help Sessions: Tuesdays 3-4PM (Room 426)
 - [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
 ## Inspiration
