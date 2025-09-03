@@ -4,7 +4,7 @@
 * Time: Wednesdays 12:20 - 2:50PM EST
 * Location: 409
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Mimi-01)
-* [Office Hours Signup](https://calendar.app.google/ZNgeTMujQKz1QyJR7)
+* [Office Hours Signup](https://calendar.app.google/QuhsyV4LJqoicZXr7)
 
 ## Dates
 
@@ -15,3 +15,4 @@
 5. Wednesday, October 1
 6. Wednesday, October 8
 7. Wednesday, October 15
+
