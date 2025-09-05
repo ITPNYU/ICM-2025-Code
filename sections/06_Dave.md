@@ -4,7 +4,7 @@
 * Time: Wednesdays 12:20PM - 2:50PM EST
 * Location: Room 411
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Dave-06)
-* [Office Hours](https://calendar.app.google/bTAVSxtH7pHe8C2v5)
+* [Office Hours](https://calendar.app.google/qxMn8FR5tc22nyAW9)
 * Socials: [Linked In](https://www.linkedin.com/in/davidestein/) [Instagram](https://www.instagram.com/colonelpanix/)
 [Spotify](https://open.spotify.com/artist/5k3zU2X1Bg9HQOHlmlviNp?si=nqnRqII8S2C18y7eS77jnA) [Bluesky](https://bsky.app/profile/davidstein.us)
 
