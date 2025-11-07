@@ -36,8 +36,9 @@ The following is an overview of how we will be spending class time over the next
 - ICM Help Sessions: Tuesdays 3-4PM (Room 426)
 - [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
-## Inspiration
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2025-Code/wiki/Inspiration)
+## Inpsiration: Creative Coding Projects
+- [Add to this page!](https://github.com/ITPNYU/ICM-2025-Code/wiki/Inspiration)
+- [p5 Community Page](https://p5js.org/community/)
 
 ## COURSE DESCRIPTION
 The 17th century philosopher Spinoza described "wonder" as a state of suspension in the mind, a paralysis resulting from a confrontation with something wholly new, disconnected from past experience such that judgements of whether it is good or bad are not possible. At this moment in time, we are caught in such a state of suspension with digital technologies. Creating computer applications, instead of simply using them will provide you with a deeper appreciation for the essential possibilities, limitations and unknowns of computation.
